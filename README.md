@@ -1,4 +1,4 @@
-![Main GitHub README](https://github.com/RoryHog/RoryHog/blob/main/Linkedin%20Banner.png?raw=true)
+![GitHub Title]( )
 ![About](https://github.com/RoryHog/RoryHog/blob/main/GitHub%20Readme-About.png?raw=true)
 ![Tech Stack](https://github.com/RoryHog/RoryHog/blob/main/Tech%20Stack.png?raw=true)
 <!---
