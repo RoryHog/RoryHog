@@ -7,7 +7,7 @@
 I'm a Full Stack Developer seeking my first role in tech 💻
 
 
-I used to be a Key Accounts Manager, but I'm swapping managing key accounts to managing key value pairs.
+A former Key Accounts Manager, swapping managing key accounts to managing key-value pairs.
 
 
   ---
