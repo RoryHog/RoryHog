@@ -1,5 +1,5 @@
 <p>
-  <img align='right' src="https://github.com/RoryHog/RoryHog/blob/main/SoC%20Grad.png?raw=true">
+  <img align='right' src="https://github.com/RoryHog/RoryHog/blob/main/SoC%20Grad%2022.png?raw=true">
 </p> 
 
 
